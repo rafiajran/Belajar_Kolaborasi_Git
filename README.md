@@ -1,6 +1,4 @@
 # Belajar_Kolaborasi_Git
 
-Tahap Pengerjaan Kolaborasi Git:
-1. Setup Environment Git
-2. pull Request
-3. Resolve Conflict
+Nama: RAFI AJRAN RIFA'AH
+Saya senang belajar Git Source Control di Gamelab Indonesia
